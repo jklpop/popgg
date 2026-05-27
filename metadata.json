@@ -1,0 +1,6 @@
+{
+  "name": "Noor Islamic",
+  "description": "A modern, premium Islamic Super App including prayer times, Holy Quran, Azkar, Qibla compass, dynamic progress tracking, and AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
